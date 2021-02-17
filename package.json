@@ -2,5 +2,7 @@
   "name": "gts-sandbox",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:gatchan0807/gts-sandbox.git",
+  "author": "gatchan0807 <yuki.dolphin.koga@gmail.com>"
 }
