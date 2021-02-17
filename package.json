@@ -4,5 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:gatchan0807/gts-sandbox.git",
-  "author": "gatchan0807 <yuki.dolphin.koga@gmail.com>"
+  "author": "gatchan0807 <yuki.dolphin.koga@gmail.com>",
+  "dependencies": {
+    "gts": "^3.1.0"
+  }
 }
