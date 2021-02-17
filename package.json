@@ -5,7 +5,8 @@
   "license": "MIT",
   "repository": "git@github.com:gatchan0807/gts-sandbox.git",
   "author": "gatchan0807 <yuki.dolphin.koga@gmail.com>",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "gts": "^3.1.0"
   }
 }
